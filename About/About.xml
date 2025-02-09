@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ModMetaData>
+	<name>[sbz] Neat Storage</name>
+	<author>seobongzu</author>
+	<description>Add 19 types of furniture for neat storage.</description>
+	<packageId>sbz.NeatStorage</packageId>
+	<supportedVersions>
+		<li>1.5</li>
+	</supportedVersions>
+	<modDependencies>
+		<li>
+			<packageId>adaptive.storage.framework</packageId>
+			<displayName>Adaptive Storage Framework</displayName>
+			<steamWorkshopUrl>https://steamcommunity.com/sharedfiles/filedetails/?id=3033901359</steamWorkshopUrl>
+		</li>
+	</modDependencies>
+	<loadAfter>
+		<li>adaptive.storage.framework</li>
+	</loadAfter>	
+	<modIconPath IgnoreIfNoMatchingField="True">UI/sbz</modIconPath>
+</ModMetaData>
